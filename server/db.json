@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Hoa học trò số 1371",
+            "price": "19.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product//h/o/hoa-h_c-tr_-s_-1371.jpg",
+            "description": "Báo Sinh Viên Việt Nam - Hoa Học Trò",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        },
+        {
+            "id": 2,
+            "title": "Văn Phòng Thám Tử Quái Vật - Tập 8",
+            "price": "20.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product/n/x/nxbtre_full_28582022_095801.jpg",
+            "description": "SP-02",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        },
+        {
+            "id": 3,
+            "title": "Spy X Family - Tập 3",
+            "price": "15.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product/s/p/spy-x-family---tap-3.jpg",
+            "description": "SP-03",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        },
+        {
+            "id": 4,
+            "title": "Vị Thần Lang Thang",
+            "price": "17.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product/v/i/vi-than-lang-thang---tap-23.jpg",
+            "description": "SP-04",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        },
+        {
+            "id": 5,
+            "title": "Thiên Thần Diệt Thế - Tập 24",
+            "price": "76.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product/t/h/thien-than-diet-the---tap-24.jpg",
+            "description": "SP-05",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        },
+        {
+            "id": 6,
+            "title": "Hướng Dẫn Học Tiếng Việt 1",
+            "price": "98.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935083581608---copy.jpg",
+            "description": "SP-06: ThS Lê Đình Nguyên, Trần Đức Niềm",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        },
+        {
+            "id": 7,
+            "title": "Cà Phê Cùng Tony (Tái Bản 2017)",
+            "price": "12.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product/u/n/untitled-9_19.jpg",
+            "description": "SP-07",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        },
+        {
+            "id": 8,
+            "title": "Ngày Trong Sương Mù",
+            "price": "15.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935095620715.jpg",
+            "description": "SP-08",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        },
+        {
+            "id": 9,
+            "title": "Cổ Tích Cho Ngày Mới",
+            "price": "17.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8934974150268_1.jpg",
+            "description": "SP-09",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        },
+        {
+            "id": 10,
+            "title": "Giang Hồ Chỉ Vừa Đủ Xài",
+            "price": "67.000 VNĐ",
+            "image": "https://cdn0.fahasa.com/media/catalog/product/9/7/9786041100336.jpg",
+            "description": "SP-10",
+            "type": "Bìa Mềm",
+            "quantum": "12"
+        }
+    ]
+}
